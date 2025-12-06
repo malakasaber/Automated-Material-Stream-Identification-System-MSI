@@ -11,8 +11,11 @@ The goal is to build a fully functional, feature-based vision system using **SVM
 ---
 ## Dataset 
 [Dataset](https://drive.google.com/drive/folders/1nZIc0PvX5mh6IiN1potWtPopxAHgthKy?usp=drive_link)
+
 [Augmented Dataset](https://drive.google.com/drive/folders/1BNrisqSbppShLq2q7xq1PLECSm8wqLD-?usp=drive_link)
+
 [Split Train Validation Augmented Dataset](https://drive.google.com/drive/folders/1ARaLmSgDnVauqe2L7wQCpCTv4rZB4ADH?usp=drive_link)
+
 ---
 
 ## Project Objectives
