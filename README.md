@@ -9,6 +9,11 @@ This project implements an **Automated Material Stream Identification (MSI) Syst
 The goal is to build a fully functional, feature-based vision system using **SVM** and **k-NN** classifiers, compare their performance, and deploy the best model in a **real-time camera-based application**.
 
 ---
+## Dataset 
+[Dataset](https://drive.google.com/drive/folders/1nZIc0PvX5mh6IiN1potWtPopxAHgthKy?usp=drive_link)
+[Augmented Dataset](https://drive.google.com/drive/folders/1BNrisqSbppShLq2q7xq1PLECSm8wqLD-?usp=drive_link)
+[Split Train Validation Augmented Dataset](https://drive.google.com/drive/folders/1ARaLmSgDnVauqe2L7wQCpCTv4rZB4ADH?usp=drive_link)
+---
 
 ## Project Objectives
 
