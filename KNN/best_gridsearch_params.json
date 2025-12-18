@@ -1,0 +1,11 @@
+{
+  "best_params": {
+    "knn__metric": "cosine",
+    "knn__n_neighbors": 3,
+    "knn__weights": "distance",
+    "scaler": "MinMaxScaler()"
+  },
+  "best_score": 0.8796666666666667,
+  "unknown_class_id": 6,
+  "unknown_proba_threshold": 0.5
+}
